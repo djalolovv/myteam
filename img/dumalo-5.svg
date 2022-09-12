@@ -1,0 +1,7 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 8">
+<rect id="Rectangle" x="100" y="100" width="100" height="100" transform="rotate(-180 100 100)" fill="#2C6269"/>
+<path id="Combined Shape Copy" fill-rule="evenodd" clip-rule="evenodd" d="M100 200C155.228 200 200 155.228 200 100C200 44.7715 155.228 0 100 0C44.7715 0 0 44.7715 0 100C0 155.228 44.7715 200 100 200ZM100 133C118.225 133 133 118.225 133 100C133 81.7746 118.225 67 100 67C81.7746 67 67 81.7746 67 100C67 118.225 81.7746 133 100 133Z" fill="#004047"/>
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M100 56H0V60H100V56ZM100 64H0V68H100V64ZM0 72H100V76H0V72ZM100 80H0V84H100V80ZM0 88H100V92H0V88ZM100 96H0V100H100V96Z" fill="#F67E7E"/>
+</g>
+</svg>

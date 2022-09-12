@@ -1,0 +1,11 @@
+<svg width="358" height="220" viewBox="0 0 358 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 7">
+<g id="Group 4">
+<ellipse id="Oval" cx="100" cy="110" rx="100" ry="110" fill="#2C6269"/>
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M258 220C313.228 220 358 170.751 358 110C358 49.2487 313.228 0 258 0C202.772 0 158 49.2487 158 110C158 170.751 202.772 220 258 220ZM258 146.3C276.225 146.3 291 130.048 291 110C291 89.9521 276.225 73.7 258 73.7C239.775 73.7 225 89.9521 225 110C225 130.048 239.775 146.3 258 146.3Z" fill="#012F34"/>
+<rect id="Rectangle" x="358" y="47.3" width="43" height="47.3" transform="rotate(-180 358 47.3)" fill="#79C8C7"/>
+<path id="Combined Shape Copy" fill-rule="evenodd" clip-rule="evenodd" d="M233.513 220C288.742 220 333.513 170.751 333.513 110C333.513 49.2487 288.742 0 233.513 0C178.285 0 133.513 49.2487 133.513 110C133.513 170.751 178.285 220 233.513 220ZM233.513 146.3C251.739 146.3 266.513 130.048 266.513 110C266.513 89.9521 251.739 73.7 233.513 73.7C215.288 73.7 200.513 89.9521 200.513 110C200.513 130.048 215.288 146.3 233.513 146.3Z" fill="#F67E7E"/>
+</g>
+<path id="Combined Shape_2" fill-rule="evenodd" clip-rule="evenodd" d="M100 0H0V4.4H100V0ZM100 8.8H0V13.2H100V8.8ZM0 17.6H100V22H0V17.6ZM100 26.4H0V30.8H100V26.4ZM0 35.2H100V39.6H0V35.2ZM100 44H0V48.4H100V44Z" fill="#79C8C7"/>
+</g>
+</svg>

@@ -1,0 +1,239 @@
+@font-face {
+  font-family: "Livvic";
+  font-style: normal;
+  font-weight: 600;
+  src: local(""), url("./fonts/livvic-v13-latin-600.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("./fonts/livvic-v13-latin-600.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+@font-face {
+  font-family: "Livvic";
+  font-style: normal;
+  font-weight: 700;
+  src: local(""), url("./fonts/livvic-v13-latin-700.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("./fonts/livvic-v13-latin-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+* {
+  box-sizing: border-box;
+}
+.container {
+  max-width: 1165px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(1, 78, 86, 1);
+  font-family: "Livvic";
+}
+.texts {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #ffffff;
+  text-decoration: none;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 77px 0px 133px 0px;
+}
+.nav-ul {
+  display: flex;
+  align-items: center;
+}
+.nav-display {
+  display: flex;
+  align-items: center;
+}
+
+.nav-li {
+  padding-left: 40px;
+}
+
+li {
+  list-style: none;
+}
+.find {
+  width: 560px;
+}
+.texts-display {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.texts-3 {
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 100px;
+  line-height: 100px;
+  color: #ffffff;
+}
+span {
+  color: rgba(246, 126, 126, 1);
+}
+.texts-4 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #ffffff;
+}
+.content-2 {
+  background-color: rgba(1, 47, 52, 1);
+}
+.line-2 {
+  color: rgba(246, 126, 126, 1);
+  font-size: 80px;
+}
+.content-title-text {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 48px;
+  color: white;
+}
+.ul-texts-1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 28px;
+  color: #f67e7e;
+}
+.wrap-2 {
+  padding-right: 65px;
+  padding-bottom: 178px;
+}
+.content-title-text-wrap {
+  background-image: url("./img/dumalo-3.png");
+  background-repeat: no-repeat;
+  background-position-x: 1070px;
+  background-position-y: 570px;
+  display: flex;
+  justify-content: space-between;
+}
+.content-3-texts {
+  padding-top: 40px;
+  text-align: center;
+}
+.success {
+  color: rgba(0, 64, 71, 1);
+}
+.cards {
+  background-image: url("./img/qo'shtirno.svg");
+  background-repeat: no-repeat;
+  background-position: top center;
+  width: 350px;
+  padding-top: 10px;
+}
+.cards-display {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card-text-1 {
+  text-align: center;
+}
+.card-text-2 {
+  color: rgba(121, 200, 199, 1);
+}
+.card-info {
+  font-style: italic;
+  font-weight: 500;
+  font-size: 13px;
+}
+.banner {
+  background-color: #f67e7e;
+}
+.banner-display {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 0px 76px 200px;
+  background-image: url("./img/dumalo-last.svg");
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  background-position-y: 120px;
+}
+.banner-text-color {
+  color: #012f34;
+  text-align: right;
+}
+.banner-btn {
+  color: #012f34;
+  background-color: transparent;
+  border-color: #012f34;
+}
+footer {
+  background-color: #002529;
+}
+.footer-links {
+  padding-left: 10px;
+}
+.footer-links2 {
+  opacity: 0.6;
+}
+.footer-logos {
+  text-align: right;
+}
+.footer-container {
+  padding: 48px 0px 55px 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-1:hover {
+  opacity: 0.8;
+}
+.logo-1:active {
+  opacity: 0.5;
+}
+.texts:hover {
+  color: #f67e7e;
+}
+.banner-btn:hover {
+  background-color: #002529;
+  color: #ffffff;
+  border-color: transparent;
+}
+.about {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  background-color: transparent;
+  border-radius: 24px;
+  border: 2px solid white;
+  text-decoration: none;
+}
+.texts-display {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-image: url("./img/dumalo-2.svg");
+  padding-bottom: 240px;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-position-y: 320px;
+}
+.texts-4-container {
+  width: 400px;
+}
+.content {
+  background-image: url("./img/dumalo-1.png");
+  background-repeat: no-repeat;
+  background-position-x: calc(50% - 765px);
+}
+.content-3-container {
+  padding-top: 40px;
+  background-image: url("./img/to'rburche.svg");
+  background-repeat: no-repeat;
+  background-position: top left;
+}
